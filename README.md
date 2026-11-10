@@ -74,10 +74,10 @@ Dibuat untuk UTS Pemrograman Web Genap 2025/2026.
 
 ## Screenshot
 
-![Login](Screenshot/Login.png)
-![Dashboard](Screenshot/Dashboard.png)
-![Pengelolaan](Screenshot/Pengelolaan.png)
-![Profile](Screenshot/Profil.png)
+![Login](Screenshoot/Login.png)
+![Dashboard](Screenshoot/Dashboard.png)
+![Pengelolaan](Screenshoot/Pengelolaan.png)
+![Profile](Screenshoot/Profil.png)
 
 ---
 
