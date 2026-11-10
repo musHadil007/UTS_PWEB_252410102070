@@ -56,3 +56,61 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
+
+
+
+
+
+# NexaPanel
+
+Aplikasi web sistem manajemen produk elektronik berbasis **Laravel MVC** dengan templating **Blade Engine**.
+
+Dibuat untuk UTS Pemrograman Web Genap 2025/2026.
+
+---
+
+## Screenshot
+
+![Login](screenshots/login.png)
+![Dashboard](screenshots/dashboard.png)
+![Pengelolaan](screenshots/pengelolaan.png)
+![Profile](screenshots/profile.png)
+
+---
+
+## Tentang Web Ini
+
+Web ini adalah panel administrasi sederhana untuk mengelola produk elektronik. Tidak menggunakan database — semua data berasal dari array di Controller dan dikirim ke View menggunakan Blade.
+
+Fitur yang ada:
+- Login dengan username yang diteruskan ke Dashboard dan Profil
+- Dashboard dengan statistik dan aktivitas terbaru
+- Halaman Pengelolaan berisi tabel 8 produk elektronik
+- Halaman Profil yang menampilkan data pengguna
+
+---
+
+## Teknologi
+
+- Laravel 11
+- Blade Engine
+- Tailwind CSS
+
+---
+
+## Cara Jalankan
+
+```bash
+php artisan serve
+```
+
+Buka `http://127.0.0.1:8000`, login dengan username `admin_utama` dan password `password123`.
+
+---
+
+**Nama:** *(Mustofa Hadiel Ulya)*  
+**NIM:** *(252410102070)*  
+**Kelas:** *(PWEB B)*
