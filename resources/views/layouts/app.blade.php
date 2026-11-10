@@ -87,14 +87,6 @@
 </head>
 <body class="font-sans min-h-screen flex flex-col">
 
-    {{--
-    ┌─────────────────────────────────────────────────────────────┐
-    │  LAYOUT STRUCTURE                                           │
-    │  @yield('content') — dikosongkan dan diisi tiap view       │
-    │  x-components: navbar & footer disertakan via @include     │
-    └─────────────────────────────────────────────────────────────┘
-    --}}
-
     @hasSection('fullpage')
         {{-- Halaman login: tanpa sidebar --}}
         @yield('content')
